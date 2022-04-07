@@ -15,6 +15,8 @@
 
 <img src="https://user-images.githubusercontent.com/90133237/162261058-ce673444-7785-44f9-82b1-f0e232b42b9d.jpg" width="300" />
 
+Компоненты: Text, View, Image, Button, Alert
+
 2. Сделайте ваш экран осмысленным:
 
 ***Демонстрация работы приложения (файл App2.js):***
